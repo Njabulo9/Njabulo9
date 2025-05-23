@@ -9,11 +9,11 @@
 ---
 
 ## 📌 Table of Contents
-1. [Career Counselling](#career-counselling)
-2. [Skills and Interests](#skills-and-interests)
-3. [Personality Assessment](#personality-assessment)
-4. [Create a CV](#create-a-cv)
-5. [CV Submission (Job Targeting)](#cv-submission-job-targeting)
+1. [Career Counselling]
+2. [Skills and Interests]
+3. [Personality Assessment])
+4. [Create a CV]
+5. [CV Submission (Job Targeting)
 
 ---
 
@@ -36,7 +36,7 @@
 ### 📎 Evidence
 - [Skills Audit Worksheet](link-to-file)
 - Mind map of personal interests (see below)  
-![Skills Mind Map](link-to-image)
+
 
 ### 🧠 Reflection (STAR Technique)
 > **S**: In the training, we were asked to list our technical and soft skills and identify our personal interests. 
@@ -49,7 +49,7 @@
 ## 3. 🧬 Personality Assessment
 
 ### 📎 Evidence
-- [Personality Test Results](link-to-file or screenshot)
+- [Personality Test Results
 - Reflection journal
 
 ### 🧠 Reflection (STAR Technique)
@@ -65,7 +65,7 @@
 ## 4. 📄 Create a CV
 
 ### 📎 Evidence
-- [Download My CV (PDF)](link-to-cv.pdf)
+- [Download My CV (PDF)](https://myclassroom.cput.ac.za/ultra/courses/_162232_1/grades/assessment/_3425149_1/overview/student-submission-view?contentId=_3425149_1&gradeId=_11223257_1&attemptId=_11442044_1&courseId=_162232_1)
 
 ### 🧠 Reflection (STAR Technique)
 > **S**: As part of the portfolio, we were required to design a professional CV aligned with our target job. 
@@ -79,8 +79,7 @@
 
 ### 📎 Evidence
 - [Job Description Screenshot](link-to-image)
-- [Submitted CV Version](link-to-targeted-cv.pdf)
-- [Cover Letter](link-to-cover-letter.pdf)
+- [Submitted CV Version](https://myclassroom.cput.ac.za/ultra/courses/_162232_1/grades/assessment/_3425149_1/overview/student-submission-view?contentId=_3425149_1&gradeId=_11223257_1&attemptId=_11442044_1&courseId=_162232_1)
 
 ### 🧠 Reflection (STAR Technique)
 > **S**: After completing my CV, I targeted a job post for a Junior Business Analyst role I found on LinkedIn.
