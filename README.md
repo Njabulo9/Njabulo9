@@ -91,9 +91,7 @@
 
 ## 📚 References
 > All sources referenced using Harvard style.  
-> Example:  
-> CareerWise. (2024). *Career Counselling Guide*. Retrieved from [URL]
-
+>https://www.linkedin.com/learning/me/my-library/completed?u=2256146
 ---
 
 ## ✅ Declaration
